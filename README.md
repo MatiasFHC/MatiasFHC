@@ -1,7 +1,7 @@
 ### Hola, bienvenido a mi perfil de GitHub 👋
 
 
-- 🔭 Actualmente estoy estudiando Ingeniería de Sistemas de Información en la UPC.
+- 🔭 Actualmente estoy estudiando Ingeniería de Sistemas de Información en la UPC (6to ciclo).
 - 🌱 Actualmente estoy aprendiendo sobre desarrollo web y análisis de datos.
 - 👯 Estoy buscando colaborar en proyectos de código abierto o startups tecnológicas.
 - 🤔 Estoy buscando ayuda con optimización de tareas.
